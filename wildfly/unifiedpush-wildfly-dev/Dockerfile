@@ -1,5 +1,5 @@
 # Use latest aerogear/wildfly image as the base
-FROM aerogear/wildfly
+FROM aerogear/wildfly:1.1.3
 MAINTAINER Bruno Oliveira <bruno@aerogear.org>
 
 # Set the repository name
