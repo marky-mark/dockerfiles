@@ -1,5 +1,5 @@
 # Use latest aerogear/wildfly image as the base
-FROM aerogear/wildfly
+FROM aerogear/wildfly:10.1.0.Final
 MAINTAINER Bruno Oliveira <bruno@aerogear.org>
 
 
